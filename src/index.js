@@ -1,5 +1,3 @@
-//write your code here
-
 const restaurantMenuElement = document.getElementById('restaurant-menu')
 
 //Deliverable #1
